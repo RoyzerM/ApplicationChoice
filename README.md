@@ -31,3 +31,7 @@ If you want you can drag the exe file out from your file and delete the file you
 Windows Defender Threat:
 This application is made for shortcuts, the Windows Defender will think it is a virus but its not.
 It thinks this since this app uses a script which opens apps in another way of double clicking the icon.
+
+# Updates
+-ApplicationChoiceV1 came out on ? of october
+
